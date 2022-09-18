@@ -5,4 +5,4 @@
 |Daniel Santaella|Alfa|
 |Jesus Ruiz||
 |Jose Olivo||
-|Jesus Lopez||
+|Jesus Lopez|Delta|
