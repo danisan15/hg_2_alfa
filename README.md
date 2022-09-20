@@ -3,6 +3,6 @@
 |Nombre|Alias|
 |------|-----|
 |Daniel Santaella|Alfa|
-|Jesus Ruiz||
-|Jose Olivo||
+|Jose Olivo|Bravo|
+|Jesus Ruiz|Charlie|
 |Jesus Lopez|Delta|
